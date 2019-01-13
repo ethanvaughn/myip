@@ -1,2 +1,3 @@
-# myip
-Text my router's external IP on a scheduled basis.
+# myip 
+
+Current IP Addr: 24.11.69.135
