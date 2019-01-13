@@ -1,0 +1,1 @@
+0,30 * * * * cd $HOME/work/myip; ./myip.sh > /tmp/myip.out
