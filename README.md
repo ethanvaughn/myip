@@ -1,3 +1,3 @@
 # myip 
 
-Current IP Addr: 24.11.69.135
+Current IP Addr: 2601:680:c300:10c5:ba27:ebff:fe2d:a180
