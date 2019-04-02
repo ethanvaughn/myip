@@ -1,3 +1,3 @@
 # myip 
 
-Current IP Addr: 
+Current IP Addr: Checking ...
