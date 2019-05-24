@@ -1,3 +1,3 @@
 # myip 
 
-Current IP Addr: Checking ...
+Current IP Addr: 24.11.69.135
