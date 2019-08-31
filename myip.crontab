@@ -1,1 +1,1 @@
-0,15,30,45 7-21 * * * cd $HOME/work/myip; ./myip.sh > /tmp/myip.out
+37 13 * * * cd $HOME/work/myip; ./myip.sh &> /tmp/myip.out
